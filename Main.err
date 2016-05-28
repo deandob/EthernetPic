@@ -1,0 +1,9 @@
+Warning[2059] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 331 : unary minus of unsigned value
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 343 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 352 : type qualifier mismatch in assignment
+Warning[2065] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 615 : static function 'getSample' never referenced
+Warning[2065] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 615 : static function 'PWMOut' never referenced
+Warning[2065] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 615 : static function 'IntercomInit' never referenced
+Warning[2065] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 615 : static function 'PWMOut' never referenced
+Warning[2065] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 615 : static function 'getSample' never referenced
+Warning[2065] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\Main.c 615 : static function 'IntercomInit' never referenced

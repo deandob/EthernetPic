@@ -1,0 +1,4 @@
+Warning[2058] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\MQTTClient.c 84 : call of function without prototype
+Warning[2054] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\MQTTClient.c 91 : suspicious pointer conversion
+Warning[2054] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\MQTTClient.c 93 : suspicious pointer conversion
+Warning[2058] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\MQTTClient.c 214 : call of function without prototype

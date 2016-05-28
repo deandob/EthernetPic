@@ -1,0 +1,8 @@
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 172 : type qualifier mismatch in assignment
+Warning[2056] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 190 : expression is always true
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 216 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 257 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 266 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 296 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 300 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\Dean\Downloads\Olimex PIC micro TCP\TCPIP Demo App\SocketsClient.c 326 : suspicious pointer conversion
